@@ -1,0 +1,4 @@
+configurationset:
+  - configuration:
+      name: curl_import_config
+      authentication_2ac4b3d684: alagoagrande::stepzen.net+1000::809957781d479af09b76a35cad71bbdd5ba713df9202d5e2c7a0aa543a9f8e86
