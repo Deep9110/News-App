@@ -79,6 +79,4 @@ const fetchNews = async (
 }
 export default fetchNews;
 
-// importing schema successfully...
-// stepzen import curl "http://api.mediastack.com/v1/news?access_key=a45d36504e7c4209e0d123a4b9687039"
-//
+
